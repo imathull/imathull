@@ -41,7 +41,7 @@
   <!-- Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="GCP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS" />
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40" alt="AWS" />
 </p>
 
 ---
@@ -55,6 +55,6 @@
 
 ---
 
-> Learning. Building. Evolving. 🚀
+<h4 align="center"><strong>Learning. Building. Evolving. 🚀</strong></h4>
 
 ---
