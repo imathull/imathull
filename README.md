@@ -51,6 +51,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/athulp07" target="_blank">linkedin.com/in/athulp07</a><br>
   <a href="mailto:athulsajeesh004@gmail.com">athulsajeesh004@gmail.com</a>
+  <a href="https://athul-portfolio-showcase.lovable.app/">athul_portfolio.app</a>
 </p>
 
 ---
